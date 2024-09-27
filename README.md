@@ -1,5 +1,14 @@
-- 👋 ¡Hola! Soy @andresre1, ingeniero de software con más de 5 años de experiencia, apasionado por soluciones tecnológicas innovadoras. Mi enfoque va más allá del código, priorizando comprender el negocio y las necesidades del cliente. 💼💡
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/andres-scm/">Andrés</a> 👋</h1>
+</div>
 
-- 🚀 Mi lenguaje favorito es Java ☕, y me mantengo actualizado con las últimas tendencias. Constantemente amplío mis habilidades explorando nuevas tecnologías. En proyectos anteriores, lideré el desarrollo desde cero, asegurando calidad y eficiencia. 🚀💪
+## Sobre mi
+- Ingeniero de software con más de 6 años de experiencia y apasionado por desarrollar soluciones tecnológicas innovadoras. Me enorgullece tener una mentalidad orientada al producto, no solo enfocándome en la escritura de código, sino también en comprender el negocio y las necesidades del cliente. 💼💡
+- Mi lenguaje favorito es Java ☕, y me mantengo actualizado con las últimas características y tendencias de su ecosistema. Además, estoy constantemente ampliando mis habilidades aprendiendo nuevas tecnologías y explorando nuevas formas de mejorar mis capacidades como ingeniero de software. 🚀💪
+- En mi trayectoria, he tenido el privilegio de trabajar en diversos proyectos donde he sido responsable de liderar el desarrollo de software desde cero, asegurando la calidad y eficiencia en cada etapa del ciclo de vida del proyecto. 📈🔧
+- Mi objetivo siempre ha sido crear productos de alto rendimiento y escalables, aprovechando las mejores prácticas de ingeniería de software y siguiendo metodologías ágiles. Me apasiona enfrentar desafíos técnicos, superar obstáculos y encontrar soluciones creativas para impulsar el éxito del proyecto. 💡💻
+- Mi capacidad para comunicarme eficazmente, trabajar en equipo y adaptarme rápidamente a los cambios me ha permitido colaborar de manera efectiva en entornos multidisciplinarios y entregar resultados exitosos en plazos ajustados. Siempre estoy dispuesto a enfrentar nuevos desafíos y aprender de ellos. 🤝💡
 
-- 📫 ¿Cómo contactarme? https://linkedin.com/in/andres-scm
+¡Gracias por visitar mi perfil! 👨‍💻💼🌟
+![GitHub followers](https://img.shields.io/github/followers/andres?style=social&logo=linkedin&labelColor=blue&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fandres-scm%2F)
+<br>
