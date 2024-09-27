@@ -10,5 +10,4 @@
 - Mi capacidad para comunicarme eficazmente, trabajar en equipo y adaptarme rápidamente a los cambios me ha permitido colaborar de manera efectiva en entornos multidisciplinarios y entregar resultados exitosos en plazos ajustados. Siempre estoy dispuesto a enfrentar nuevos desafíos y aprender de ellos. 🤝💡
 
 ¡Gracias por visitar mi perfil! 👨‍💻💼🌟
-![GitHub followers](https://img.shields.io/github/followers/andres?style=social&logo=linkedin&labelColor=blue&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fandres-scm%2F)
 <br>
